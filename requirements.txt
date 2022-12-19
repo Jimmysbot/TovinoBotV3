@@ -35,3 +35,4 @@ yt_dlp
 wget
 ffprope
 ffmpeg
+youtube-search-python==1.4.6
